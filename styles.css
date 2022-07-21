@@ -1,8 +1,11 @@
 @charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400|Inconsolata:400');
 
-body {
-  font-family: Montserrat, sans-serif !important;
+html, body {
+  font-family: Montserrat, sans-serif; /* !important; */
   text-align: center;
+  align-items: center;
+  justify-content: center;
 }  
 
 /*for construction2 image*/
